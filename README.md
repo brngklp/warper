@@ -7,8 +7,8 @@ python3 install.py --shell <your_shell>
 
 ## Supported Shells
 *bash
-*zsh
-*fish
+zsh
+fish
 
 # Usage
 warper <on/off>

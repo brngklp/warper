@@ -6,9 +6,7 @@ Use the command below.\n
 python3 install.py --shell <your_shell>
 
 ## Supported Shells
-*bash\n
-*zsh\b
-*fish\n
+bash / zsh / fish
 
 # Usage
 warper <on/off>

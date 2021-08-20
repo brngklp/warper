@@ -2,10 +2,12 @@
 A Linux helper for Cloudflare's 1.1.1.1
 
 # Install
-python3 install.py --shell <your_shell>
+` 
+git clone https://github.com/brngklp/warper.git 
+cd warper/src 
+sudo make install
+`
 
-## Supported Shells
-bash / zsh / fish
 
 # Usage
-warper <on/off>
+warper <on/off/status>

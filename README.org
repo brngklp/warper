@@ -1,7 +1,7 @@
 #+TITLE: Warper
 A Linux Helper For CloudFlare's [[https://1.1.1.1/][Warp]].
 
-[[https://i.imgur.com/BoKYuHA.png]]
+
 
 
 ** Getting Started
@@ -22,6 +22,7 @@ git clone https://github.com/brngklp/warper.git ; cd warper ; sudo make install
 
 ** Usage
 =warper <on/off/status>=
+[[https://i.imgur.com/BoKYuHA.png]]
 
 ** Built With
 [[https://python.org][Python]]

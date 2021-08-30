@@ -1,13 +1,34 @@
 #+TITLE: Warper
-A Linux Helper For CloudFlare's Warp.
+A Linux Helper For CloudFlare's [[https://1.1.1.1/][Warp]].
 
 [[https://i.imgur.com/BoKYuHA.png]]
 
 
-* Install
-#+begin_src bash
+** Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+** Prerequisites
+Warper requires the latest 'python3' and 'make' packages. To install them write the command below to your terminal.
+**** For Debian based distros;
+=sudo apt install make python3=
+**** For Arch based distros;
+=sudo pacman -S make python3=
+
+** Install
+To install warper to your system, You need to write the command below to your terminal.
+#+begin_src sh
 git clone https://github.com/brngklp/warper.git ; cd warper ; sudo make install
 #+end_src
 
-* Usage
+** Usage
 =warper <on/off/status>=
+
+** Built With
+[[https://python.org][Python]]
+
+** Authors
+Baran Gökalp
+
+** License
+This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details
+

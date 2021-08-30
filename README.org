@@ -26,6 +26,10 @@ git clone https://github.com/brngklp/warper.git ; cd warper ; sudo make install
 ** Built With
 [[https://python.org][Python]]
 
+** Contributing
+To report bugs and suggest new feature use the [[https://github.com/brngklp/warper/issues][issue tracker]]. If you have some code which you would like to be merged, then open a pull request.
+
+
 ** Authors
 Baran Gökalp
 
